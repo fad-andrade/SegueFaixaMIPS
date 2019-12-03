@@ -9,3 +9,6 @@ Caso apenas um sensor retorne valor de cor idêntico ao da linha, deve-se fazer 
 
 #### Desenvolvido por:
 Angelina Gomes Santos e Felipe Amorim de Paula Andrade
+
+##### Observações:
+Pode-se acessar o passo a passo da construção do algoritmo através do link disponível no [Drive](https://docs.google.com/document/d/1Xnxq3CtcDiq2NtWzLoYx55ac9Or3hvMcwcY2rpxJUfk/edit?usp=sharing)
